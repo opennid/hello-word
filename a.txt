@@ -1,4 +1,8 @@
 def runn(a,b):
 	pass
+<<<<<<< HEAD
 def test():
+=======
+def xxx():
+>>>>>>> 1acca9ab3607dcf5f67d147d14af3471aa87ab52
 	pass
