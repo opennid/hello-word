@@ -1,3 +1,4 @@
 def aaa():
 	print('xxx')
-
+def cccc():
+	xxxx
