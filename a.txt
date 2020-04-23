@@ -2,3 +2,5 @@ def aaa():
 	print('xxx')
 def cccc():
 	xxxx
+def bbb():
+	pass
