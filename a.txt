@@ -4,3 +4,6 @@ def cccc():
 	xxxx
 def bbb():
 	pass
+def xxx():
+	pass
+
