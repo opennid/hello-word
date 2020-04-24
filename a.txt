@@ -7,3 +7,5 @@ def bbb():
 def xxx():
 	pass
 
+def zzz():
+	pass
